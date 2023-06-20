@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ravneet04/Top-courses/static/css/main.734284c4.css",
+    "main.js": "/Ravneet04/Top-courses/static/js/main.fced9a28.js",
+    "index.html": "/Ravneet04/Top-courses/index.html",
+    "main.734284c4.css.map": "/Ravneet04/Top-courses/static/css/main.734284c4.css.map",
+    "main.fced9a28.js.map": "/Ravneet04/Top-courses/static/js/main.fced9a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734284c4.css",
+    "static/js/main.fced9a28.js"
+  ]
+}
